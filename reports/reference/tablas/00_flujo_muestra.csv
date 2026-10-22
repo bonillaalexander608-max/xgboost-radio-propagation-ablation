@@ -1,0 +1,6 @@
+paso,n,excluidos_paso
+Lectura original,17872,NA
+Level y distancia disponibles,13124,4748
+15 <= distancia < 3000 m,13100,24
+Level > -150 dBm,12768,332
+Coordenadas receptor disponibles y validas,12768,0

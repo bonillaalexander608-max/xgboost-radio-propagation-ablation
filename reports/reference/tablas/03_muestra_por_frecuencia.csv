@@ -1,0 +1,10 @@
+Conjunto,BAND,n
+Buffer excluded,L2,442
+Buffer excluded,L28,6
+Buffer excluded,L4,153
+Test,L2,3283
+Test,L28,119
+Test,L4,1616
+Training,L2,4453
+Training,L28,438
+Training,L4,2258

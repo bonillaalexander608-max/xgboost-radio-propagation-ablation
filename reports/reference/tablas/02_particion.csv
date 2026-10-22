@@ -1,0 +1,2 @@
+n_entrenamiento,n_prueba,n_buffer,porcentaje_prueba_filas,bloques_train,bloques_test,distancia_min_m,celdas_compartidas
+7149,5018,601,39.30137844611529,43,11,100.04321252027307,33

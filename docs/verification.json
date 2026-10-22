@@ -1,0 +1,29 @@
+{
+  "checks": [
+    {
+      "model": "base",
+      "n_test": 5018,
+      "metrics_match_exports": true
+    },
+    {
+      "model": "orientacion",
+      "n_test": 5018,
+      "metrics_match_exports": true
+    },
+    {
+      "model": "geometria",
+      "n_test": 5018,
+      "metrics_match_exports": true
+    },
+    {
+      "model": "completo",
+      "n_test": 5018,
+      "metrics_match_exports": true
+    }
+  ],
+  "paired_contrasts_verified": 24,
+  "cv_splits_verified": 50,
+  "all_paired_intervals_include_zero": true,
+  "R_execution": "Not performed: R is unavailable in the preparation environment.",
+  "bootstrap_recomputed": false
+}

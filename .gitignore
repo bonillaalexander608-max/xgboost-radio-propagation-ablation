@@ -1,0 +1,14 @@
+# R session state
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+# Generated runs and fitted/tuning objects
+resultados/
+*.rds
+*.RDS
+# Local configuration and OS files
+.env
+.env.*
+.DS_Store
+Thumbs.db

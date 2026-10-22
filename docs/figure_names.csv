@@ -1,0 +1,12 @@
+original_name,repository_name
+00_particion_espacial.png,00_spatial_partition.png
+01_observado_estimado.png,01_observed_vs_predicted.png
+02_residuos_estimados.png,02_residuals_vs_predictions.png
+03_distribucion_residuos.png,03_residual_distribution.png
+04_error_acumulado.png,04_absolute_error_ecdf.png
+05_residuos_distancia.png,05_residuals_vs_distance.png
+06_rmse_distancia.png,06_rmse_by_distance.png
+07_resultados_tuning.png,07_tuning_results.png
+08_error_frecuencia.png,08_error_by_frequency.png
+09_IC_diferencias.png,09_paired_difference_confidence_intervals.png
+10_errores_pareados.png,10_paired_absolute_errors.png

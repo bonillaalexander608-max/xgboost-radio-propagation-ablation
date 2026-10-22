@@ -1,0 +1,25 @@
+Referencia,Candidato,.metric,replicas_validas,IC95_inferior,IC95_superior,mejora,n_bloques,interpretacion
+base,completo,mae,2000,-0.5013960916659485,0.5270029675046118,0.23291660124868852,11,IC incluye cero: resultado inconcluso
+base,completo,r2_predictivo,2000,-0.12063374518708594,0.09067006192289075,0.027836599010046092,11,IC incluye cero: resultado inconcluso
+base,completo,rmse,2000,-0.6448620129575516,0.5848364503227164,0.196772646325714,11,IC incluye cero: resultado inconcluso
+base,completo,rsq,2000,-0.10466946083416775,0.017143456158659854,-0.042680263539200514,11,IC incluye cero: resultado inconcluso
+base,geometria,mae,2000,-0.10373698899435543,0.19048808695992622,0.08018001953222331,11,IC incluye cero: resultado inconcluso
+base,geometria,r2_predictivo,2000,-0.014644460330052936,0.04179428617742827,0.011219450434708511,11,IC incluye cero: resultado inconcluso
+base,geometria,rmse,2000,-0.1031742492910937,0.20110306878479428,0.07876411862658372,11,IC incluye cero: resultado inconcluso
+base,geometria,rsq,2000,-0.016202612183192907,0.024009571467683274,0.00967350070264178,11,IC incluye cero: resultado inconcluso
+base,orientacion,mae,2000,-0.6280982237354695,0.48035696911225656,0.07863202784915746,11,IC incluye cero: resultado inconcluso
+base,orientacion,r2_predictivo,2000,-0.17702223588243415,0.0728148102579271,0.0023784950937856264,11,IC incluye cero: resultado inconcluso
+base,orientacion,rmse,2000,-0.8200790636705926,0.53255958565265,0.016637662969321454,11,IC incluye cero: resultado inconcluso
+base,orientacion,rsq,2000,-0.07402660512196799,0.024578555669900883,-0.02658081329347628,11,IC incluye cero: resultado inconcluso
+geometria,completo,mae,2000,-0.5180181485193343,0.49376324353015777,0.1527365817164652,11,IC incluye cero: resultado inconcluso
+geometria,completo,r2_predictivo,2000,-0.14174353456179783,0.08426200395501476,0.01661714857533758,11,IC incluye cero: resultado inconcluso
+geometria,completo,rmse,2000,-0.7292391970556948,0.5564620380431564,0.11800852769913028,11,IC incluye cero: resultado inconcluso
+geometria,completo,rsq,2000,-0.11471654434713321,0.019722829778737773,-0.05235376424184229,11,IC incluye cero: resultado inconcluso
+orientacion,completo,mae,2000,-0.16472751049882436,0.43228283504739873,0.15428457339953106,11,IC incluye cero: resultado inconcluso
+orientacion,completo,r2_predictivo,2000,-0.019352326651712215,0.11800561251928492,0.025458103916260466,11,IC incluye cero: resultado inconcluso
+orientacion,completo,rmse,2000,-0.12948898687270952,0.5175116099630649,0.18013498335639255,11,IC incluye cero: resultado inconcluso
+orientacion,completo,rsq,2000,-0.03906758004551324,0.009626214334246853,-0.016099450245724234,11,IC incluye cero: resultado inconcluso
+orientacion,geometria,mae,2000,-0.4992717177552105,0.7043372365397994,0.0015479916830658524,11,IC incluye cero: resultado inconcluso
+orientacion,geometria,r2_predictivo,2000,-0.0750518330657266,0.21061548873410374,0.008840955340922885,11,IC incluye cero: resultado inconcluso
+orientacion,geometria,rmse,2000,-0.5423020942629843,0.942665493069035,0.06212645565726227,11,IC incluye cero: resultado inconcluso
+orientacion,geometria,rsq,2000,-0.028125129159424393,0.08305697117277262,0.03625431399611806,11,IC incluye cero: resultado inconcluso

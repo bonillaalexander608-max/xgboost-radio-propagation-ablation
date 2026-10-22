@@ -1,0 +1,313 @@
+Conjunto,celda_id,n
+Buffer excluded,410017_22,3
+Buffer excluded,410017_42,14
+Buffer excluded,410018_22,7
+Buffer excluded,410018_42,6
+Buffer excluded,410144_43,15
+Buffer excluded,410147_43,3
+Buffer excluded,410148_23,4
+Buffer excluded,410189_21,3
+Buffer excluded,410189_22,30
+Buffer excluded,410190_22,14
+Buffer excluded,410190_23,19
+Buffer excluded,410203_23,4
+Buffer excluded,410203_43,5
+Buffer excluded,410296_21,199
+Buffer excluded,410296_23,5
+Buffer excluded,410296_41,33
+Buffer excluded,410296_43,2
+Buffer excluded,410330_21,57
+Buffer excluded,410397_22,10
+Buffer excluded,410397_23,1
+Buffer excluded,410411_22,2
+Buffer excluded,410427_23,15
+Buffer excluded,410961_23,4
+Buffer excluded,411100_21,7
+Buffer excluded,411100_22,2
+Buffer excluded,411101_23,14
+Buffer excluded,411101_42,10
+Buffer excluded,411224_23,4
+Buffer excluded,411277_21,9
+Buffer excluded,411280_41,29
+Buffer excluded,411280_43,14
+Buffer excluded,411282_41,22
+Buffer excluded,411371_22,7
+Buffer excluded,411437_72,6
+Buffer excluded,411479_21,4
+Buffer excluded,411681_21,1
+Buffer excluded,411681_23,8
+Buffer excluded,411682_21,8
+Buffer excluded,411972_21,1
+Test,410017_21,102
+Test,410017_22,342
+Test,410017_24,131
+Test,410017_41,204
+Test,410017_42,589
+Test,410017_44,256
+Test,410017_71,6
+Test,410017_72,17
+Test,410018_22,6
+Test,410022_21,30
+Test,410022_41,204
+Test,410083_73,2
+Test,410144_42,5
+Test,410144_43,12
+Test,410148_23,9
+Test,410148_43,2
+Test,410185_43,23
+Test,410189_21,152
+Test,410189_22,423
+Test,410189_23,207
+Test,410190_21,1
+Test,410190_22,1
+Test,410190_23,12
+Test,410203_23,2
+Test,410203_43,16
+Test,410296_21,34
+Test,410296_41,23
+Test,410330_21,55
+Test,410330_23,350
+Test,410397_22,27
+Test,410397_23,59
+Test,410411_21,35
+Test,410411_22,28
+Test,410411_23,11
+Test,410427_23,22
+Test,410720_22,24
+Test,410720_72,24
+Test,410961_23,13
+Test,410989_21,3
+Test,410989_22,95
+Test,410989_23,40
+Test,410989_72,8
+Test,411100_21,2
+Test,411100_23,45
+Test,411100_41,3
+Test,411100_43,2
+Test,411101_23,7
+Test,411101_42,5
+Test,411224_23,18
+Test,411250_23,6
+Test,411277_21,13
+Test,411280_41,43
+Test,411280_43,61
+Test,411282_41,8
+Test,411346_22,4
+Test,411355_21,79
+Test,411355_22,172
+Test,411355_23,43
+Test,411355_71,14
+Test,411355_73,11
+Test,411363_23,1
+Test,411363_42,75
+Test,411363_43,65
+Test,411364_21,4
+Test,411364_72,15
+Test,411371_21,433
+Test,411371_22,27
+Test,411371_23,10
+Test,411437_71,3
+Test,411437_72,5
+Test,411437_74,14
+Test,411438_21,24
+Test,411438_22,3
+Test,411438_23,9
+Test,411479_21,6
+Test,411523_22,3
+Test,411524_22,12
+Test,411681_23,8
+Test,411682_21,55
+Test,411687_23,5
+Test,411698_22,44
+Test,411871_41,20
+Test,411926_22,2
+Test,411926_23,34
+Training,410005_42,40
+Training,410005_72,12
+Training,410017_42,5
+Training,410018_21,7
+Training,410018_22,36
+Training,410018_23,18
+Training,410018_41,59
+Training,410018_42,31
+Training,410018_43,79
+Training,410022_43,22
+Training,410023_41,5
+Training,410023_42,2
+Training,410026_21,2
+Training,410026_23,6
+Training,410026_71,7
+Training,410074_22,71
+Training,410074_23,10
+Training,410074_72,7
+Training,410081_22,21
+Training,410081_42,98
+Training,410083_72,6
+Training,410144_43,24
+Training,410147_43,1
+Training,410148_23,29
+Training,410148_41,23
+Training,410148_42,33
+Training,410150_21,10
+Training,410150_22,13
+Training,410173_41,4
+Training,410173_42,30
+Training,410175_23,6
+Training,410189_22,5
+Training,410190_21,846
+Training,410190_22,139
+Training,410190_23,34
+Training,410203_23,1
+Training,410203_43,98
+Training,410203_73,6
+Training,410296_21,64
+Training,410296_22,19
+Training,410296_23,135
+Training,410296_41,16
+Training,410296_43,67
+Training,410319_21,12
+Training,410319_22,41
+Training,410319_23,58
+Training,410319_41,12
+Training,410319_42,23
+Training,410319_43,19
+Training,410326_22,8
+Training,410330_21,215
+Training,410330_22,10
+Training,410397_21,47
+Training,410397_22,1
+Training,410397_23,59
+Training,410398_42,14
+Training,410398_71,21
+Training,410398_72,27
+Training,410398_73,19
+Training,410402_22,11
+Training,410406_71,25
+Training,410406_72,43
+Training,410406_73,6
+Training,410408_42,62
+Training,410408_43,50
+Training,410411_22,4
+Training,410427_23,63
+Training,410713_21,11
+Training,410713_23,3
+Training,410886_21,9
+Training,410886_23,8
+Training,410918_21,149
+Training,410918_23,74
+Training,410954_23,14
+Training,410954_24,8
+Training,410956_21,40
+Training,410956_23,35
+Training,410956_42,35
+Training,410956_43,137
+Training,410962_22,24
+Training,410962_23,9
+Training,410962_41,21
+Training,410962_42,26
+Training,410962_43,49
+Training,410970_23,16
+Training,410971_21,106
+Training,410971_22,8
+Training,410971_23,53
+Training,410978_71,6
+Training,410979_72,58
+Training,410979_73,29
+Training,410981_43,14
+Training,410990_22,16
+Training,410990_23,67
+Training,410990_41,165
+Training,410990_43,123
+Training,411010_41,7
+Training,411011_22,3
+Training,411011_42,35
+Training,411049_21,27
+Training,411094_21,48
+Training,411100_21,4
+Training,411100_22,2
+Training,411101_21,38
+Training,411101_22,10
+Training,411101_23,21
+Training,411101_41,46
+Training,411101_42,27
+Training,411101_43,2
+Training,411119_21,30
+Training,411119_23,32
+Training,411224_23,44
+Training,411226_21,41
+Training,411226_22,46
+Training,411230_21,21
+Training,411230_22,5
+Training,411230_23,23
+Training,411230_73,5
+Training,411250_43,2
+Training,411274_21,33
+Training,411274_22,19
+Training,411274_23,30
+Training,411277_21,56
+Training,411277_23,16
+Training,411277_71,2
+Training,411277_73,14
+Training,411280_41,134
+Training,411280_42,123
+Training,411280_43,4
+Training,411282_21,114
+Training,411282_22,32
+Training,411282_23,5
+Training,411282_41,213
+Training,411282_42,86
+Training,411291_24,10
+Training,411298_22,6
+Training,411318_21,1
+Training,411334_23,6
+Training,411334_73,25
+Training,411346_22,9
+Training,411357_21,12
+Training,411357_22,21
+Training,411371_22,3
+Training,411371_23,2
+Training,411475_21,48
+Training,411475_22,13
+Training,411479_21,25
+Training,411482_22,89
+Training,411485_22,16
+Training,411485_23,3
+Training,411485_41,48
+Training,411485_42,21
+Training,411485_43,36
+Training,411489_21,44
+Training,411489_22,22
+Training,411492_71,17
+Training,411494_22,103
+Training,411494_72,103
+Training,411521_42,17
+Training,411521_43,11
+Training,411523_22,7
+Training,411524_21,48
+Training,411524_23,13
+Training,411524_43,11
+Training,411529_22,20
+Training,411529_23,26
+Training,411681_21,5
+Training,411681_22,86
+Training,411681_23,16
+Training,411682_21,8
+Training,411682_23,19
+Training,411687_21,30
+Training,411687_23,59
+Training,411699_22,17
+Training,411699_23,25
+Training,411872_21,4
+Training,411872_41,48
+Training,411902_21,8
+Training,411903_21,8
+Training,411903_22,1
+Training,411903_23,34
+Training,411905_21,32
+Training,411906_24,2
+Training,411906_26,4
+Training,411954_21,33
+Training,411954_23,18
+Training,411972_21,76
+Training,411973_22,36
+Training,412251_23,34
